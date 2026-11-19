@@ -1,2 +1,5 @@
 # chrome-extension-ai-boilerplate
-Plantilla Manifest V3 para Extensiones de Chrome con integración de IA lista para usar y monetizar.
+
+Este proyecto está en pausa y no ofrece ningún producto ni servicio a la venta.
+
+Herramienta gratuita disponible: [Calculadora de Comisiones LatAm](https://lucho-design1.github.io/fee-calculator-latam/)
